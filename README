@@ -1,0 +1,8 @@
+Copyright (C) 2014 Ahmad Draidi <ar2000jp@gmail.com>
+Please see the source code file for license details.
+
+CSVRename.py is a small program that renames files based on a list of source
+    and target names taken from a CSV file.
+
+For the latest version, please check out:
+    https://github.com/Ar2000jp/CSVRename.py
